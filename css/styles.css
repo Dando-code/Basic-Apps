@@ -1,0 +1,81 @@
+body{
+    background-color:#a7d0cd;
+    color:#7b6079;
+    font-family:'Original Surfer', cursive;
+    text-align:center;}
+
+
+h1{font-family:'Bangers', cursive;
+    margin-bottom:2%;}
+
+h2{
+    font-weight:bold;
+    font-size:3rem;
+    width:50%;
+    margin:20px auto 35px;}
+
+h2, h3{font-family:'New Tegomin', serif;} 
+
+
+h3{
+    font-size:1.5rem;
+    margin:0 auto 40px;
+    width:50%;}
+
+
+hr{
+        border-top:10px;
+        border-style:dotted;
+        color:#845460;
+        margin: 0 auto 5%;
+        }
+    
+
+.sTit{margin:0 auto 65px;}
+
+    /*****NAVBAR****/
+
+.nav{background-color:#de8971;
+    padding:5% 7%;}
+
+    .nav-link{color:#7b6079;}
+
+        .nav-link:hover{color:#d8f8b7;}
+
+.navIcon{color:#7b6079;}
+
+.navbar-brand{margin:0 auto 0 0;}
+
+
+.calcBody{
+    background-color:#766161;
+    border: 1 px solid;
+    border-radius: 25% 10%;
+    color:#87a7b3;
+    margin: 0 auto;
+    padding-top: 5%;
+}
+.bmiInput{
+    background-color:#564a4a;
+    border-radius: 25% 10%;
+    color:#9fe6a0;
+    margin: 0 5%;
+    text-align:center;
+}
+
+.calcButton{
+    background-color:#564a4a;
+    border:1px solid;
+    border-color:#564a4a;
+    border-radius: 10% 25%;
+    color:#4aa96c;
+    margin:5% 0 7% 0;}
+
+.diceRow{margin:0 auto 5%;}
+
+
+
+
+
+
+
